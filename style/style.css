@@ -4,3 +4,12 @@ div{
     padding: 10px;
     margin: 10px;
 }
+.photo{
+    height: 500px;
+    width: 500px;
+    padding: 10px;
+    background-position: center;
+    background-color: aqua;
+    
+
+}
